@@ -1,0 +1,13 @@
+{
+	"manifest_version": 3,
+	"name": "SE Chat Remover",
+	"version": "0.1",
+	"description": "Removes chat window and expands video frame in theater mode.",
+	"permissions": ["activeTab", "scripting"],
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": ["content.js"]
+		}
+	]
+}
