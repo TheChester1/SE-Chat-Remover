@@ -10,3 +10,6 @@ Finds and removes the chat element upon loading stream page. No option to turn b
 Also makes the player larger when clicking on the theater mode button. I hard set this to a pixel size as it was easy and wasn't dealing with padding 
 on a website like streameast. Again I have no idea what I'm doing. I stumbled my way through this enough to do what I wanted it to. But the Theater Mode 
 button does work! Go me. 
+
+To install simply open Extensions, enable Developer Mode.
+Select Load Unpacked and select the folder where the files are saved.
